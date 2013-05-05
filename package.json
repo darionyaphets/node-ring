@@ -1,0 +1,11 @@
+{
+    "name"        : "node-ring" ,
+    "version"     : "0.0.1" , 
+    "description" : "nodejs toke ring base cluster manager" ,
+    "author"      : "darion.yaphet"
+    
+    "maintainers" : ["yaphets.darion@gmail.com"] ,
+    "keywords"    : ["cluster" , "scalable" , "token ring"] , 
+      
+    
+}
