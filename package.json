@@ -6,6 +6,9 @@
     
     "maintainers" : ["yaphets.darion@gmail.com"] ,
     "keywords"    : ["cluster" , "scalable" , "token ring"] , 
-      
+    "dependencies": {
+        "colors" : "0.6.0"
+        "forever": "0.10.7"
+    }
     
 }
